@@ -1,6 +1,6 @@
 # Pizza ordering app<br/>
 
-Pizza team is a mern (mongodb-express-reactjs-nodejs) web app. It is a ordering app with payment gateway (stripe - currently in test mode). <br/>The app is associate with admin panel. The app is developed with some basic animation.<br/>
+Urpizzas is a mern (mongodb-express-reactjs-nodejs) web app. It is a ordering app with payment gateway (stripe - currently in test mode). <br/>The app is associate with admin panel. The app is developed with some basic animation.<br/>
 
 The admin hase control over the menu items, user list, order status.<br/>
 admin page<br/>
