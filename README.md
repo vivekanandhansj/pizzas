@@ -3,6 +3,9 @@
 Pizza team is a mern (mongodb-express-reactjs-nodejs) web app. It is a delivery app with payment gateway (stripe - currently in test mode). <br/>The app is associate with admin panel. The app is developed with some basic animation.<br/>
 
 The admin hase control over the menu items, user list, order status.<br/>
+admin page<br/>
+![admin](https://user-images.githubusercontent.com/97933338/203781747-ecf9395c-df4f-4af4-9222-9d0804408602.png)
+
 credentials<br/>
 1.admin<br/>
 username: admin@gmail.com<br/>
